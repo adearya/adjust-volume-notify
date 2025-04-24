@@ -45,8 +45,8 @@
 </p>
 
 ### Built With
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) <br />
-![Dunst](https://img.shields.io/badge/Dunst-ffffff?logo=freedesktopdotorg&style=flat&color=777777&logoColor=ffffff)<br />
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge) <br />
+![Dunst](https://img.shields.io/badge/Dunst-ffffff?logo=freedesktopdotorg&style=for-the-badge&color=777777&logoColor=ffffff)<br />
 <!-- add_built_with -->
 
 
